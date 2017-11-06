@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BitmpDemo</string>
+    <string name="app_permission">请允许相关权限</string>
+</resources>
